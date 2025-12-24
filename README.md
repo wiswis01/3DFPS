@@ -34,9 +34,8 @@ A stylish 3D first-person shooter built with Three.js in a single HTML file usin
 
 2. Use Python's built-in server: 
    ```bash
-   cd /Users/mac/Desktop
    python3 -m http.server 8000
 
-3.  Open in your browser (**Chrome** or **Firefox** for best WebGL/Three.js performance): 
+3. Open in your browser (**Chrome** or **Firefox** for best WebGL/Three.js performance): 
    ```bash
    http://localhost:8000/fps-game.html
