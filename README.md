@@ -1,7 +1,7 @@
 <!-- filepath: /Users/mac/Desktop/README.md -->
 # NEON STRIKE 🎮
 
-A stylish 3D first-person shooter built with Three.js in a single HTML file.
+A stylish 3D first-person shooter built with Three.js in a single HTML file using ***Claude Opus 4.5 model***.
 
 ![Neon Strike](https://img.shields.io/badge/Game-FPS-cyan)
 ![Three.js](https://img.shields.io/badge/Three.js-r128-blue)
