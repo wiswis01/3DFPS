@@ -1,2 +1,33 @@
-# NEON STRIKE 3D FPS
-A cyberpunk 3D shooter built with Three.js
+<!-- filepath: /Users/mac/Desktop/README.md -->
+# NEON STRIKE 🎮
+
+A stylish 3D first-person shooter built with Three.js in a single HTML file.
+
+![Neon Strike](https://img.shields.io/badge/Game-FPS-cyan)
+![Three.js](https://img.shields.io/badge/Three.js-r128-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+## 🎯 Features
+
+- **Cyberpunk/Neon aesthetic** with glowing effects and particle systems
+- **Wave-based gameplay** with increasing difficulty
+- **4 Powerup types**: Health, Shield, Speed Boost, Rapid Fire
+- **Geometric drone enemies** with AI that chase the player
+- **Dynamic lighting** and visual effects
+- **Responsive HUD** with health, shield, score, and wave counter
+
+## 🕹️ Controls
+
+| Key | Action |
+|-----|--------|
+| `WASD` | Move |
+| `Mouse` | Look around |
+| `Left Click` | Shoot (hold for rapid fire) |
+| `Shift` | Sprint |
+| `ESC` | Pause |
+
+## 🚀 Quick Start
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/3DFPS.git
